@@ -241,9 +241,11 @@ These items in the paper do not have a script or raw data here:
 - The truncation check and the 4-bit versus full-precision check (Section 5.3,
   Appendix E).
 
-## Citing
+## Citation
 
-If you use this code, please cite the paper:
+If you use this code or find our work helpful, please cite the following paper:
+
+```bibtex
 @article{gupta2026you,
   title={Are You Sure You're Sure? Two Confounds in a Sycophancy Benchmark},
   author={Gupta, Atharv and Jindal, Akshat and Nigam, Lavanya and Sood, Aryan},
