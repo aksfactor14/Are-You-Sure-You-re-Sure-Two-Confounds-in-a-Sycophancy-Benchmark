@@ -1,7 +1,7 @@
 # Are You Sure You're Sure? Two Confounds in a Sycophancy Benchmark
 
 Code and data for the paper. This README explains how to set the repo up and how to
-reproduce every table and figure in it.
+reproduce every table in it.
 
 ## What the paper is about
 
