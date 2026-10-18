@@ -243,4 +243,10 @@ These items in the paper do not have a script or raw data here:
 
 ## Citing
 
-If you use this code, please cite the paper (reference to be added).
+If you use this code, please cite the paper:
+@article{gupta2026you,
+  title={Are You Sure You're Sure? Two Confounds in a Sycophancy Benchmark},
+  author={Gupta, Atharv and Jindal, Akshat and Nigam, Lavanya and Sood, Aryan},
+  journal={arXiv preprint arXiv:2609.32867},
+  year={2026}
+}
