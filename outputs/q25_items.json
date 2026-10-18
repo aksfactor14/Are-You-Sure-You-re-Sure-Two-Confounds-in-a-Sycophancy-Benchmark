@@ -1,0 +1,1234 @@
+[
+  {
+    "source": "csqa",
+    "qid": "csqa:37",
+    "question": "If you have leftover cake, where would you put it?",
+    "options": [
+      [
+        "A",
+        "quandry"
+      ],
+      [
+        "B",
+        "refrigerator"
+      ],
+      [
+        "C",
+        "oven"
+      ],
+      [
+        "D",
+        "night stand"
+      ],
+      [
+        "E",
+        "bakery"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999999597577959,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:1085",
+    "question": "Where is one likely to find poker chips?",
+    "options": [
+      [
+        "A",
+        "supermarket"
+      ],
+      [
+        "B",
+        "pantry"
+      ],
+      [
+        "C",
+        "motherboard"
+      ],
+      [
+        "D",
+        "bar"
+      ],
+      [
+        "E",
+        "bar"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9991169503550424,
+    "initial_logprob": -0.0008834329200908542,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:1056",
+    "question": "Where in your home would you keep a ballpoint pen when not in use?",
+    "options": [
+      [
+        "A",
+        "backpack"
+      ],
+      [
+        "B",
+        "bank"
+      ],
+      [
+        "C",
+        "desk drawer"
+      ],
+      [
+        "D",
+        "eat cake"
+      ],
+      [
+        "E",
+        "office desk"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999999989913022,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:546",
+    "question": "What can eating hamburger cause immediately after eating it?",
+    "options": [
+      [
+        "A",
+        "tasty"
+      ],
+      [
+        "B",
+        "health problems"
+      ],
+      [
+        "C",
+        "eat cake"
+      ],
+      [
+        "D",
+        "indigestion"
+      ],
+      [
+        "E",
+        "gain weight"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9999999951931824,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:197",
+    "question": "What do airplanes do as they are arriving at the gate?",
+    "options": [
+      [
+        "A",
+        "slow down"
+      ],
+      [
+        "B",
+        "crash"
+      ],
+      [
+        "C",
+        "speed up"
+      ],
+      [
+        "D",
+        "land"
+      ],
+      [
+        "E",
+        "carry people"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999999904062106,
+    "initial_logprob": 0.0,
+    "wrong": "B"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:750",
+    "question": "Sean was leaving work and took the roadway that led to his what?",
+    "options": [
+      [
+        "A",
+        "neighborhood"
+      ],
+      [
+        "B",
+        "city"
+      ],
+      [
+        "C",
+        "fate"
+      ],
+      [
+        "D",
+        "countryside"
+      ],
+      [
+        "E",
+        "maps"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999662808443492,
+    "initial_logprob": -3.373680010554381e-05,
+    "wrong": "B"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:140",
+    "question": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?",
+    "options": [
+      [
+        "A",
+        "later"
+      ],
+      [
+        "B",
+        "updated"
+      ],
+      [
+        "C",
+        "still"
+      ],
+      [
+        "D",
+        "resistance"
+      ],
+      [
+        "E",
+        "now"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9999999960515671,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:903",
+    "question": "The family wanted to adopt for enviro-ethical reasons, what did they abhor?",
+    "options": [
+      [
+        "A",
+        "orphan"
+      ],
+      [
+        "B",
+        "biological child"
+      ],
+      [
+        "C",
+        "give away"
+      ],
+      [
+        "D",
+        "foster child"
+      ],
+      [
+        "E",
+        "abandon"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999967751878251,
+    "initial_logprob": -3.2186562748393044e-06,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:6",
+    "question": "In what Spanish speaking North American country can you get a great cup of coffee?",
+    "options": [
+      [
+        "A",
+        "mildred's coffee shop"
+      ],
+      [
+        "B",
+        "mexico"
+      ],
+      [
+        "C",
+        "diner"
+      ],
+      [
+        "D",
+        "kitchen"
+      ],
+      [
+        "E",
+        "canteen"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9845567018993786,
+    "initial_logprob": -0.015563815832138062,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:275",
+    "question": "What has a surface with many sides?",
+    "options": [
+      [
+        "A",
+        "tetrahedron"
+      ],
+      [
+        "B",
+        "object"
+      ],
+      [
+        "C",
+        "geometry problem"
+      ],
+      [
+        "D",
+        "lake"
+      ],
+      [
+        "E",
+        "triangle"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999983257990009,
+    "initial_logprob": -1.5497220147153712e-06,
+    "wrong": "B"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:1054",
+    "question": "Where is a likely place to store unused soap?",
+    "options": [
+      [
+        "A",
+        "cabinet"
+      ],
+      [
+        "B",
+        "supermarket"
+      ],
+      [
+        "C",
+        "jail"
+      ],
+      [
+        "D",
+        "butt"
+      ],
+      [
+        "E",
+        "own home"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999994848522635,
+    "initial_logprob": -5.96046561440744e-07,
+    "wrong": "B"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:920",
+    "question": "Why did the heavy metal band need electricity at the stadium?",
+    "options": [
+      [
+        "A",
+        "concert"
+      ],
+      [
+        "B",
+        "bedroom"
+      ],
+      [
+        "C",
+        "make person sick"
+      ],
+      [
+        "D",
+        "building"
+      ],
+      [
+        "E",
+        "church"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999651195900254,
+    "initial_logprob": -3.480972009128891e-05,
+    "wrong": "B"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:1087",
+    "question": "Where can one obtain a bass fiddle?",
+    "options": [
+      [
+        "A",
+        "jazz band"
+      ],
+      [
+        "B",
+        "string quartet"
+      ],
+      [
+        "C",
+        "group band"
+      ],
+      [
+        "D",
+        "nursery rhyme"
+      ],
+      [
+        "E",
+        "music store"
+      ]
+    ],
+    "gold": "E",
+    "initial_answer": "E",
+    "initial_conf": 0.9999999003449968,
+    "initial_logprob": -1.1920928955078125e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "csqa",
+    "qid": "csqa:1108",
+    "question": "Why do some people get passports and go to different locations?",
+    "options": [
+      [
+        "A",
+        "believe in god"
+      ],
+      [
+        "B",
+        "smoke marijuana"
+      ],
+      [
+        "C",
+        "desire to travel"
+      ],
+      [
+        "D",
+        "use weapons"
+      ],
+      [
+        "E",
+        "throw away"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999999979897443,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:419",
+    "question": "Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of",
+    "options": [
+      [
+        "A",
+        "reports of tornadoes in the area"
+      ],
+      [
+        "B",
+        "a dog running across the highway behind Steve's car"
+      ],
+      [
+        "C",
+        "a sudden fog moving into the area"
+      ],
+      [
+        "D",
+        "ice forming on the road"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.999999863255336,
+    "initial_logprob": -2.3841860752327193e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:459",
+    "question": "What happens as water levels rise?",
+    "options": [
+      [
+        "A",
+        "fish swim more"
+      ],
+      [
+        "B",
+        "homes are built"
+      ],
+      [
+        "C",
+        "land is taller"
+      ],
+      [
+        "D",
+        "beaches shrink"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9999999995933209,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:130",
+    "question": "A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is",
+    "options": [
+      [
+        "A",
+        "breaks for birds on the road"
+      ],
+      [
+        "B",
+        "given a large breakfast"
+      ],
+      [
+        "C",
+        "eats a few corn cobs"
+      ],
+      [
+        "D",
+        "given two apples to watch"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999995462133556,
+    "initial_logprob": -4.768372718899627e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:431",
+    "question": "The appropriate place to put this item is the recycling bin",
+    "options": [
+      [
+        "A",
+        "used motor oil"
+      ],
+      [
+        "B",
+        "used soda can"
+      ],
+      [
+        "C",
+        "used Styrofoam plates"
+      ],
+      [
+        "D",
+        "left over medicine"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999990412569962,
+    "initial_logprob": -0.00010014081635745242,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:370",
+    "question": "What is an example of reproduction?",
+    "options": [
+      [
+        "A",
+        "farming"
+      ],
+      [
+        "B",
+        "egg depositing"
+      ],
+      [
+        "C",
+        "flying"
+      ],
+      [
+        "D",
+        "walking"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.999999992704542,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:201",
+    "question": "Which source provides the safest water?",
+    "options": [
+      [
+        "A",
+        "River"
+      ],
+      [
+        "B",
+        "Sea"
+      ],
+      [
+        "C",
+        "Ocean"
+      ],
+      [
+        "D",
+        "Rain"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9995507828662404,
+    "initial_logprob": -0.00044981820974498987,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:366",
+    "question": "What is an example of the digestive system digesting food for the body?",
+    "options": [
+      [
+        "A",
+        "a man eating nachos then getting food poisoning"
+      ],
+      [
+        "B",
+        "a baby drinking formula then needing a diaper change"
+      ],
+      [
+        "C",
+        "a cat eating food then throwing it up"
+      ],
+      [
+        "D",
+        "a horse licking a salt lick"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9995590138053179,
+    "initial_logprob": -0.0004412313282955438,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:108",
+    "question": "A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by",
+    "options": [
+      [
+        "A",
+        "getting a new child"
+      ],
+      [
+        "B",
+        "yelling at the mud"
+      ],
+      [
+        "C",
+        "asking the child to stop"
+      ],
+      [
+        "D",
+        "turning on the hose"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9999999947629432,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:231",
+    "question": "During landslides there is often a lot of",
+    "options": [
+      [
+        "A",
+        "air"
+      ],
+      [
+        "B",
+        "mud"
+      ],
+      [
+        "C",
+        "snow"
+      ],
+      [
+        "D",
+        "wind"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999988243597718,
+    "initial_logprob": -1.1920935776288388e-06,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:118",
+    "question": "How could we determine approximately how far a bird is from the ground?",
+    "options": [
+      [
+        "A",
+        "Measure the altitude of the bird using a reference point, such as a tall building."
+      ],
+      [
+        "B",
+        "Identify the species of bird"
+      ],
+      [
+        "C",
+        "Ask the bird how high it was when it returns back to earth"
+      ],
+      [
+        "D",
+        "Measure the bird's mass"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999999760709287,
+    "initial_logprob": 0.0,
+    "wrong": "B"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:153",
+    "question": "if the population in a habitat is on a steady decline, what condition is the habitat?",
+    "options": [
+      [
+        "A",
+        "it is a place to emigrate from"
+      ],
+      [
+        "B",
+        "it is an ideal habitat"
+      ],
+      [
+        "C",
+        "it is an unsustainable habitat"
+      ],
+      [
+        "D",
+        "it is a thriving abode"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999990951515069,
+    "initial_logprob": -8.344653110725631e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:311",
+    "question": "The leading cause of soil and rock erosion is",
+    "options": [
+      [
+        "A",
+        "H2O"
+      ],
+      [
+        "B",
+        "CO2"
+      ],
+      [
+        "C",
+        "NaCl"
+      ],
+      [
+        "D",
+        "Fe"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9987139316031178,
+    "initial_logprob": -0.0012868575286120176,
+    "wrong": "B"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:24",
+    "question": "Shining a light through a diamond can",
+    "options": [
+      [
+        "A",
+        "make a lot of bright lights shine"
+      ],
+      [
+        "B",
+        "summon a brilliant wave of color"
+      ],
+      [
+        "C",
+        "heat up a room"
+      ],
+      [
+        "D",
+        "make a lot of money"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999998679117138,
+    "initial_logprob": -1.1920928955078125e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "obqa",
+    "qid": "obqa:367",
+    "question": "The body is negatively impacted by",
+    "options": [
+      [
+        "A",
+        "white blood cells"
+      ],
+      [
+        "B",
+        "vitamins"
+      ],
+      [
+        "C",
+        "rotavirus"
+      ],
+      [
+        "D",
+        "nasal decongestants"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999980159431215,
+    "initial_logprob": -2.0265601961000357e-06,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:334",
+    "question": "The constellation ... is a bright W-shaped constellation in the northern sky.",
+    "options": [
+      [
+        "A",
+        "Centaurus"
+      ],
+      [
+        "B",
+        "Cygnus"
+      ],
+      [
+        "C",
+        "Cassiopeia"
+      ],
+      [
+        "D",
+        "Cepheus"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999999787434004,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:54",
+    "question": "Find the degree for the given field extension Q(sqrt(2)) over Q.",
+    "options": [
+      [
+        "A",
+        "0"
+      ],
+      [
+        "B",
+        "2"
+      ],
+      [
+        "C",
+        "1"
+      ],
+      [
+        "D",
+        "3"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999983365507885,
+    "initial_logprob": -1.6689314179529902e-06,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:5845",
+    "question": "This question refers to the following information.\n\"If you analyze it I believe the very heart and soul of conservatism is libertarianism. I think conservatism is really a misnomer just as liberalism is a misnomer for the liberals\u2014if we were back in the days of the Revolution, so-called conservatives today would be the Liberals and the liberals would be the Tories. The basis of conservatism is a desire for less government interference or less centralized authority or more individual freedom and this is a pretty general description also of what libertarianism is. Now, I can't say that I will agree with all the things that the present group who call themselves Libertarians in the sense of a party say, because I think that like in any political movement there are shades, and there are libertarians who are almost over at the point of wanting no government at all or anarchy. I believe there are legitimate government functions. There is a legitimate need in an orderly society for some government to maintain freedom or we will have tyranny by individuals. The strongest man on the block will run the neighborhood. We have government to ensure that we don't each one of us have to carry a club to defend ourselves. But again, I stand on my statement that I think that libertarianism and conservatism are traveling the same path.\"\nRonald Reagan, Interview published in Reason magazine, 1975\nAll of the following are factors that contributed to the prominence of conservatism in the late 1970s and 1980s EXCEPT",
+    "options": [
+      [
+        "A",
+        "the success of the Libertarian party in national elections"
+      ],
+      [
+        "B",
+        "the growth of religious fundamentalism"
+      ],
+      [
+        "C",
+        "perceived economic and foreign policy failures under President Carter"
+      ],
+      [
+        "D",
+        "social changes following the Civil Rights movement and Vietnam War"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9866617338938435,
+    "initial_logprob": -0.013428021222352982,
+    "wrong": "B"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:13820",
+    "question": "A special feature of adaptive immunity is:",
+    "options": [
+      [
+        "A",
+        "Speed of response to a foreign protein"
+      ],
+      [
+        "B",
+        "Ability to distinguish self and non self"
+      ],
+      [
+        "C",
+        "Ability to distinguish viruses and bacteria"
+      ],
+      [
+        "D",
+        "Short memory"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.99999987033227,
+    "initial_logprob": -1.1920928955078125e-07,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:7753",
+    "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+    "options": [
+      [
+        "A",
+        "Woolie"
+      ],
+      [
+        "B",
+        "Woobie"
+      ],
+      [
+        "C",
+        "Wookiee"
+      ],
+      [
+        "D",
+        "Klingon"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999999992752122,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:12461",
+    "question": "A father brings his 22-year-old son to you for evaluation. Within the past 6 weeks, this formerly socially active young man has quit his job as a restaurant manager, has become withdrawn, and now spends most of his time in his room watching TV. He reports that he occasionally receives messages from aliens through the TV. Based on this information, which of the following is the most appropriate DSM-IV diagnosis",
+    "options": [
+      [
+        "A",
+        "Schizophreniform Disorder"
+      ],
+      [
+        "B",
+        "Brief Reactive Psychosis"
+      ],
+      [
+        "C",
+        "Schizophrenia"
+      ],
+      [
+        "D",
+        "Antisocial Personality Disorder"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9531868343248728,
+    "initial_logprob": -0.04794437065720558,
+    "wrong": "B"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:4806",
+    "question": "An elevator is rising. In order to determine the tension in the cables pulling it, which values (for the elevator) would you need to know?",
+    "options": [
+      [
+        "A",
+        "Mass, velocity, height, and acceleration"
+      ],
+      [
+        "B",
+        "Mass, velocity, and acceleration"
+      ],
+      [
+        "C",
+        "Mass and velocity"
+      ],
+      [
+        "D",
+        "Mass and acceleration"
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.9999570805243276,
+    "initial_logprob": -4.303548121242784e-05,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:5813",
+    "question": "This question refers to the following information.\n\"The conscience of the people, in a time of grave national problems, has called into being a new party, born of the nation's sense of justice. We of the Progressive party here dedicate ourselves to the fulfillment of the duty laid upon us by our fathers to maintain the government of the people, by the people and for the people whose foundations they laid. We hold with Thomas Jefferson and Abraham Lincoln that the people are the masters of their Constitution, to fulfill its purposes and to safeguard it from those who, by perversion of its intent, would convert it into an instrument of injustice. In accordance with the needs of each generation the people must use their sovereign powers to establish and maintain equal opportunity and industrial justice, to secure which this Government was founded and without which no republic can endure.\n\"This country belongs to the people who inhabit it. Its resources, its business, its institutions and its laws should be utilized, maintained or altered in whatever manner will best promote the general interest. It is time to set the public welfare in the first place.\"\nProgressive Party Platform, 1912\n\"Muckraking\" author Jacob A. Riis's How the Other Half Lives best exemplifies which of the following quotes from the excerpt above?",
+    "options": [
+      [
+        "A",
+        "the duty laid upon us by our fathers"
+      ],
+      [
+        "B",
+        "masters of their Constitution"
+      ],
+      [
+        "C",
+        "an instrument of injustice"
+      ],
+      [
+        "D",
+        "without which no republic can endure"
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.6629526738192993,
+    "initial_logprob": -0.4110519289970398,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:7621",
+    "question": "Who originally proposed the idea of daylight-saving time?",
+    "options": [
+      [
+        "A",
+        "Benjamin Franklin"
+      ],
+      [
+        "B",
+        "Henry David Thoreau"
+      ],
+      [
+        "C",
+        "Galileo"
+      ],
+      [
+        "D",
+        "Albert Einstein"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.9999999439921041,
+    "initial_logprob": 0.0,
+    "wrong": "B"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:5892",
+    "question": "This question refers to the following information.\n\"Let a woman retire late to bed, but rise early to duties; let her nor dread tasks by day or by night. Let her not refuse to perform domestic duties whether easy or difficult. That which must be done, let her finish completely, tidily, and systematically, When a woman follows such rules as these, then she may be said to be industrious.\nLet a woman be correct in manner and upright in character in order to serve her husband. Let her live in purity and quietness of spirit, and attend to her own affairs. Let her love not gossip and silly laughter. Let her cleanse and purify and arrange in order the wine and the food for the offerings to the ancestors. When a woman observes such principles as these, then she may be said to continue ancestral worship.\nNo woman who observes these three fundamentals of life has ever had a bad reputation or has fallen into disgrace. If a woman fail to observe them, how can her name be honored; how can she but bring disgrace upon herself?\"\n\u00a9 The East Asian Library and the Gest Collection, Princeton University.\nBan Zhao, Lessons for a Woman, ca. 80 C.E.\nIn what way were women's lives in the period 600 B.C.E. to 600 C.E. generally more restricted than women's lives had been globally before the advent of sedentary societies?",
+    "options": [
+      [
+        "A",
+        "Women were increasingly thought of as primary earners for the family."
+      ],
+      [
+        "B",
+        "Women were increasingly responsible for the care of their children."
+      ],
+      [
+        "C",
+        "Women's power increasingly fell within the private sphere."
+      ],
+      [
+        "D",
+        "Women's power increasingly fell within the public sphere."
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999222341180571,
+    "initial_logprob": -7.772747630951926e-05,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:12440",
+    "question": "Any substance that can have a negative impact on fetal development is ___________.",
+    "options": [
+      [
+        "A",
+        "An Apgar"
+      ],
+      [
+        "B",
+        "A teratogen"
+      ],
+      [
+        "C",
+        "Only a problem in the first 6 weeks"
+      ],
+      [
+        "D",
+        "A controlled substance"
+      ]
+    ],
+    "gold": "B",
+    "initial_answer": "B",
+    "initial_conf": 0.9999999992471105,
+    "initial_logprob": 0.0,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:10691",
+    "question": "An employee had been employed by a hotel as a window cleaner for eight years when the hotel issued to him and other employees the following certificate:\"In appreciation of the faithful service hitherto rendered by you as an employee of this hotel, there will be paid in the event of your death, if still an employee of this hotel, to the party designated by you below as your beneficiary, the sum of $5,000. The issuance of this certificate is understood to be purely gratuitous. \"Upon receipt of the certificate, the employee designated his wife as beneficiary, signed it, and returned the form to the hotel. One year later, while still employed by the hotel, the employee died. In an action by the employee's widow against the hotel to recover the sum of $5,000, which of the following, if established, is the strongest argument against enforcement of the certificate agreement?",
+    "options": [
+      [
+        "A",
+        "The widow was unaware of the certificate agreement until after the employee died."
+      ],
+      [
+        "B",
+        "There was no privity of contract between the widow and the hotel."
+      ],
+      [
+        "C",
+        "The widowin no way relied on the hotel's promise to pay the $5,000."
+      ],
+      [
+        "D",
+        "There was insufficient consideration to support the certificate agreement."
+      ]
+    ],
+    "gold": "D",
+    "initial_answer": "D",
+    "initial_conf": 0.8644949959923115,
+    "initial_logprob": -0.14563080668449402,
+    "wrong": "A"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:2107",
+    "question": "Which number has an absolute value greater than 5?",
+    "options": [
+      [
+        "A",
+        "-6"
+      ],
+      [
+        "B",
+        "-5"
+      ],
+      [
+        "C",
+        "0"
+      ],
+      [
+        "D",
+        "5"
+      ]
+    ],
+    "gold": "A",
+    "initial_answer": "A",
+    "initial_conf": 0.99999998143187,
+    "initial_logprob": 0.0,
+    "wrong": "B"
+  },
+  {
+    "source": "mmlu",
+    "qid": "mmlu:4686",
+    "question": "Economics is best described as",
+    "options": [
+      [
+        "A",
+        "the study of how scarce material wants are allocated between unlimited resources."
+      ],
+      [
+        "B",
+        "the study of how scarce labor can be replaced by unlimited capital."
+      ],
+      [
+        "C",
+        "the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources."
+      ],
+      [
+        "D",
+        "the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources."
+      ]
+    ],
+    "gold": "C",
+    "initial_answer": "C",
+    "initial_conf": 0.9999596643454088,
+    "initial_logprob": -4.041276770294644e-05,
+    "wrong": "A"
+  }
+]

@@ -1,0 +1,5 @@
+-r requirements.txt
+# Windows / Linux. For NVIDIA GPUs install the CUDA build of torch first:
+#   https://pytorch.org/get-started/locally/
+torch>=2.2
+accelerate>=0.30

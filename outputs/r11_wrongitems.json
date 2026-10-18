@@ -1,0 +1,488 @@
+[
+  {
+    "qid": "csqa:197",
+    "source": "csqa",
+    "question": "What do airplanes do as they are arriving at the gate?",
+    "options": [
+      [
+        "A",
+        "slow down"
+      ],
+      [
+        "B",
+        "crash"
+      ],
+      [
+        "C",
+        "speed up"
+      ],
+      [
+        "D",
+        "land"
+      ],
+      [
+        "E",
+        "carry people"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "D"
+  },
+  {
+    "qid": "csqa:750",
+    "source": "csqa",
+    "question": "Sean was leaving work and took the roadway that led to his what?",
+    "options": [
+      [
+        "A",
+        "neighborhood"
+      ],
+      [
+        "B",
+        "city"
+      ],
+      [
+        "C",
+        "fate"
+      ],
+      [
+        "D",
+        "countryside"
+      ],
+      [
+        "E",
+        "maps"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "D"
+  },
+  {
+    "qid": "csqa:903",
+    "source": "csqa",
+    "question": "The family wanted to adopt for enviro-ethical reasons, what did they abhor?",
+    "options": [
+      [
+        "A",
+        "orphan"
+      ],
+      [
+        "B",
+        "biological child"
+      ],
+      [
+        "C",
+        "give away"
+      ],
+      [
+        "D",
+        "foster child"
+      ],
+      [
+        "E",
+        "abandon"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "E"
+  },
+  {
+    "qid": "csqa:308",
+    "source": "csqa",
+    "question": "Kramer wrote a self-referential book.  What might that book be about?",
+    "options": [
+      [
+        "A",
+        "counter"
+      ],
+      [
+        "B",
+        "coffee table"
+      ],
+      [
+        "C",
+        "school room"
+      ],
+      [
+        "D",
+        "backpack"
+      ],
+      [
+        "E",
+        "bedside table"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "E"
+  },
+  {
+    "qid": "csqa:422",
+    "source": "csqa",
+    "question": "What would you do to a crime scene before asking a question?",
+    "options": [
+      [
+        "A",
+        "express information"
+      ],
+      [
+        "B",
+        "touch everything"
+      ],
+      [
+        "C",
+        "think"
+      ],
+      [
+        "D",
+        "give clue"
+      ],
+      [
+        "E",
+        "analyse"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C"
+  },
+  {
+    "qid": "csqa:821",
+    "source": "csqa",
+    "question": "A creek could be located in the opposite for the city which is called what?",
+    "options": [
+      [
+        "A",
+        "meadow"
+      ],
+      [
+        "B",
+        "stick"
+      ],
+      [
+        "C",
+        "valley"
+      ],
+      [
+        "D",
+        "forest"
+      ],
+      [
+        "E",
+        "countryside"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C"
+  },
+  {
+    "qid": "csqa:608",
+    "source": "csqa",
+    "question": "If the kitten was going to grow up to be a mouser like it's mother, where should it spend most of it's time?",
+    "options": [
+      [
+        "A",
+        "shelter"
+      ],
+      [
+        "B",
+        "floor"
+      ],
+      [
+        "C",
+        "warm place"
+      ],
+      [
+        "D",
+        "farmhouse"
+      ],
+      [
+        "E",
+        "living room"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "E"
+  },
+  {
+    "qid": "csqa:1152",
+    "source": "csqa",
+    "question": "Turkey only has a small northern part of their country located in part of the what?",
+    "options": [
+      [
+        "A",
+        "middle east"
+      ],
+      [
+        "B",
+        "oven"
+      ],
+      [
+        "C",
+        "balkan peninsula"
+      ],
+      [
+        "D",
+        "provide meat"
+      ],
+      [
+        "E",
+        "asia minor"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "E"
+  },
+  {
+    "qid": "csqa:23",
+    "source": "csqa",
+    "question": "Where could you find a toilet that only friends can use?",
+    "options": [
+      [
+        "A",
+        "rest area"
+      ],
+      [
+        "B",
+        "school"
+      ],
+      [
+        "C",
+        "stadium"
+      ],
+      [
+        "D",
+        "apartment"
+      ],
+      [
+        "E",
+        "hospital"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C"
+  },
+  {
+    "qid": "obqa:431",
+    "source": "obqa",
+    "question": "The appropriate place to put this item is the recycling bin",
+    "options": [
+      [
+        "A",
+        "used motor oil"
+      ],
+      [
+        "B",
+        "used soda can"
+      ],
+      [
+        "C",
+        "used Styrofoam plates"
+      ],
+      [
+        "D",
+        "left over medicine"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "A"
+  },
+  {
+    "qid": "obqa:26",
+    "source": "obqa",
+    "question": "which of these would stop a car quicker?",
+    "options": [
+      [
+        "A",
+        "a wheel with wet brake pads"
+      ],
+      [
+        "B",
+        "a wheel without brake pads"
+      ],
+      [
+        "C",
+        "a wheel with worn brake pads"
+      ],
+      [
+        "D",
+        "a wheel with dry brake pads"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B"
+  },
+  {
+    "qid": "obqa:366",
+    "source": "obqa",
+    "question": "What is an example of the digestive system digesting food for the body?",
+    "options": [
+      [
+        "A",
+        "a man eating nachos then getting food poisoning"
+      ],
+      [
+        "B",
+        "a baby drinking formula then needing a diaper change"
+      ],
+      [
+        "C",
+        "a cat eating food then throwing it up"
+      ],
+      [
+        "D",
+        "a horse licking a salt lick"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "C"
+  },
+  {
+    "qid": "obqa:326",
+    "source": "obqa",
+    "question": "A light was off because the cord was",
+    "options": [
+      [
+        "A",
+        "sitting on the table"
+      ],
+      [
+        "B",
+        "attached to the wall"
+      ],
+      [
+        "C",
+        "attached to an extension cord"
+      ],
+      [
+        "D",
+        "attached to a battery pack"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "C"
+  },
+  {
+    "qid": "obqa:333",
+    "source": "obqa",
+    "question": "Prey are eaten by",
+    "options": [
+      [
+        "A",
+        "an animal herded by sheep dogs"
+      ],
+      [
+        "B",
+        "the animal with a starring role in Bambi"
+      ],
+      [
+        "C",
+        "animals known for their memory"
+      ],
+      [
+        "D",
+        "the fastest mammal with four legs"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B"
+  },
+  {
+    "qid": "mmlu:12461",
+    "source": "mmlu",
+    "question": "A father brings his 22-year-old son to you for evaluation. Within the past 6 weeks, this formerly socially active young man has quit his job as a restaurant manager, has become withdrawn, and now spends most of his time in his room watching TV. He reports that he occasionally receives messages from aliens through the TV. Based on this information, which of the following is the most appropriate DSM-IV diagnosis",
+    "options": [
+      [
+        "A",
+        "Schizophreniform Disorder"
+      ],
+      [
+        "B",
+        "Brief Reactive Psychosis"
+      ],
+      [
+        "C",
+        "Schizophrenia"
+      ],
+      [
+        "D",
+        "Antisocial Personality Disorder"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "C"
+  },
+  {
+    "qid": "mmlu:4483",
+    "source": "mmlu",
+    "question": "Suppose $f(x)$ is an invertible function, and suppose that $f(2)=f^{-1}(2)=4$. What is the value of $f(f(2))$?",
+    "options": [
+      [
+        "A",
+        "1"
+      ],
+      [
+        "B",
+        "2"
+      ],
+      [
+        "C",
+        "4"
+      ],
+      [
+        "D",
+        "0"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "A"
+  },
+  {
+    "qid": "mmlu:12664",
+    "source": "mmlu",
+    "question": "At the outset of group counseling, the therapist should explain char the obligation of the group member to respect confidentiality is",
+    "options": [
+      [
+        "A",
+        "less of an issue than it is in individual therapy"
+      ],
+      [
+        "B",
+        "the legal responsibility of the therapist"
+      ],
+      [
+        "C",
+        "protected by state/provincial laws"
+      ],
+      [
+        "D",
+        "on the \u201chonor system\u201d only"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C"
+  },
+  {
+    "qid": "mmlu:5634",
+    "source": "mmlu",
+    "question": "The financial aid office at a state university conducts a study to determine the total student costs per semester. All students are charged $4500 for tuition. The mean cost for books is $350 with a standard deviation of $65. The mean outlay for room and board is $2800 with a standard deviation of $380. The mean personal expenditure is $675 with a standard deviation of $125. Assuming independence among categories, what is the standard deviation of the total student costs?",
+    "options": [
+      [
+        "A",
+        "$24"
+      ],
+      [
+        "B",
+        "$91"
+      ],
+      [
+        "C",
+        "$190"
+      ],
+      [
+        "D",
+        "$405"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C"
+  }
+]

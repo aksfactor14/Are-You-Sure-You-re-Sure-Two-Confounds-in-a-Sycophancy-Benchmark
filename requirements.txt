@@ -1,0 +1,16 @@
+# Shared dependencies (all platforms)
+datasets>=2.14
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+transformers>=4.40
+markdown>=3.5          # only for make_html.py
+
+# --- INFERENCE BACKEND: install ONE of the two below ---
+#
+# Apple Silicon (M1/M2/M3/M4):
+#   pip install -r requirements-mlx.txt
+#
+# Windows / Linux (NVIDIA GPU or CPU):
+#   pip install -r requirements-torch.txt

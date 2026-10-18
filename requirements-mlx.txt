@@ -1,0 +1,4 @@
+-r requirements.txt
+# Apple Silicon only. Will not install on Windows or Linux.
+mlx>=0.20
+mlx-lm>=0.20

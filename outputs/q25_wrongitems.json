@@ -1,0 +1,1202 @@
+[
+  {
+    "qid": "csqa:667",
+    "source": "csqa",
+    "question": "Where might you see a green field while driving?",
+    "options": [
+      [
+        "A",
+        "kansas"
+      ],
+      [
+        "B",
+        "meadow"
+      ],
+      [
+        "C",
+        "farmland"
+      ],
+      [
+        "D",
+        "countryside"
+      ],
+      [
+        "E",
+        "rural area"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:308",
+    "source": "csqa",
+    "question": "Kramer wrote a self-referential book.  What might that book be about?",
+    "options": [
+      [
+        "A",
+        "counter"
+      ],
+      [
+        "B",
+        "coffee table"
+      ],
+      [
+        "C",
+        "school room"
+      ],
+      [
+        "D",
+        "backpack"
+      ],
+      [
+        "E",
+        "bedside table"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:422",
+    "source": "csqa",
+    "question": "What would you do to a crime scene before asking a question?",
+    "options": [
+      [
+        "A",
+        "express information"
+      ],
+      [
+        "B",
+        "touch everything"
+      ],
+      [
+        "C",
+        "think"
+      ],
+      [
+        "D",
+        "give clue"
+      ],
+      [
+        "E",
+        "analyse"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:821",
+    "source": "csqa",
+    "question": "A creek could be located in the opposite for the city which is called what?",
+    "options": [
+      [
+        "A",
+        "meadow"
+      ],
+      [
+        "B",
+        "stick"
+      ],
+      [
+        "C",
+        "valley"
+      ],
+      [
+        "D",
+        "forest"
+      ],
+      [
+        "E",
+        "countryside"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:699",
+    "source": "csqa",
+    "question": "If you spend a long time running after a ball how are you likely to feel?",
+    "options": [
+      [
+        "A",
+        "laughter"
+      ],
+      [
+        "B",
+        "sweating"
+      ],
+      [
+        "C",
+        "embarrassed"
+      ],
+      [
+        "D",
+        "breathing heavily"
+      ],
+      [
+        "E",
+        "tiredness"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:606",
+    "source": "csqa",
+    "question": "When you feel too much heat in your home you can turn on what?",
+    "options": [
+      [
+        "A",
+        "coolness"
+      ],
+      [
+        "B",
+        "fan"
+      ],
+      [
+        "C",
+        "get wet"
+      ],
+      [
+        "D",
+        "coldness"
+      ],
+      [
+        "E",
+        "air conditioning"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:157",
+    "source": "csqa",
+    "question": "What could you get an unsmooth pit from?",
+    "options": [
+      [
+        "A",
+        "backyard"
+      ],
+      [
+        "B",
+        "rock"
+      ],
+      [
+        "C",
+        "mine"
+      ],
+      [
+        "D",
+        "cherry"
+      ],
+      [
+        "E",
+        "peach"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "D",
+    "initial_answer": "D"
+  },
+  {
+    "qid": "csqa:608",
+    "source": "csqa",
+    "question": "If the kitten was going to grow up to be a mouser like it's mother, where should it spend most of it's time?",
+    "options": [
+      [
+        "A",
+        "shelter"
+      ],
+      [
+        "B",
+        "floor"
+      ],
+      [
+        "C",
+        "warm place"
+      ],
+      [
+        "D",
+        "farmhouse"
+      ],
+      [
+        "E",
+        "living room"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:1152",
+    "source": "csqa",
+    "question": "Turkey only has a small northern part of their country located in part of the what?",
+    "options": [
+      [
+        "A",
+        "middle east"
+      ],
+      [
+        "B",
+        "oven"
+      ],
+      [
+        "C",
+        "balkan peninsula"
+      ],
+      [
+        "D",
+        "provide meat"
+      ],
+      [
+        "E",
+        "asia minor"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "E",
+    "initial_answer": "E"
+  },
+  {
+    "qid": "csqa:1132",
+    "source": "csqa",
+    "question": "What do you do when you're going to market?",
+    "options": [
+      [
+        "A",
+        "buy food"
+      ],
+      [
+        "B",
+        "see other people"
+      ],
+      [
+        "C",
+        "buying vegetables"
+      ],
+      [
+        "D",
+        "buy a fat pig"
+      ],
+      [
+        "E",
+        "traveling"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:87",
+    "source": "csqa",
+    "question": "If you're remembering something, it's because of your what of it to begin with?",
+    "options": [
+      [
+        "A",
+        "knowledge"
+      ],
+      [
+        "B",
+        "knowing"
+      ],
+      [
+        "C",
+        "forgetful"
+      ],
+      [
+        "D",
+        "pleasure"
+      ],
+      [
+        "E",
+        "depression"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:1183",
+    "source": "csqa",
+    "question": "There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?",
+    "options": [
+      [
+        "A",
+        "mountains"
+      ],
+      [
+        "B",
+        "countryside"
+      ],
+      [
+        "C",
+        "train"
+      ],
+      [
+        "D",
+        "painting"
+      ],
+      [
+        "E",
+        "village"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:891",
+    "source": "csqa",
+    "question": "What is the main purpose of having a bath?",
+    "options": [
+      [
+        "A",
+        "cleanness"
+      ],
+      [
+        "B",
+        "wetness"
+      ],
+      [
+        "C",
+        "exfoliation"
+      ],
+      [
+        "D",
+        "use water"
+      ],
+      [
+        "E",
+        "hygiene"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "E",
+    "initial_answer": "E"
+  },
+  {
+    "qid": "csqa:806",
+    "source": "csqa",
+    "question": "What is a person likely to experience after they stop being married to a mean person?",
+    "options": [
+      [
+        "A",
+        "isolation"
+      ],
+      [
+        "B",
+        "grief"
+      ],
+      [
+        "C",
+        "happiness"
+      ],
+      [
+        "D",
+        "relief"
+      ],
+      [
+        "E",
+        "angry"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "D",
+    "initial_answer": "D"
+  },
+  {
+    "qid": "csqa:958",
+    "source": "csqa",
+    "question": "What is a possible outcome for committing murder?",
+    "options": [
+      [
+        "A",
+        "problems"
+      ],
+      [
+        "B",
+        "incarceration"
+      ],
+      [
+        "C",
+        "trial"
+      ],
+      [
+        "D",
+        "imprisonment"
+      ],
+      [
+        "E",
+        "prosecution"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:645",
+    "source": "csqa",
+    "question": "Where would you put nails if they are already packaged?",
+    "options": [
+      [
+        "A",
+        "pocket"
+      ],
+      [
+        "B",
+        "container"
+      ],
+      [
+        "C",
+        "cabinet"
+      ],
+      [
+        "D",
+        "jar"
+      ],
+      [
+        "E",
+        "store"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:715",
+    "source": "csqa",
+    "question": "Where is likely to not just have a kosher restaurant?",
+    "options": [
+      [
+        "A",
+        "jerusalem"
+      ],
+      [
+        "B",
+        "jewish neighborhoods"
+      ],
+      [
+        "C",
+        "dining in"
+      ],
+      [
+        "D",
+        "new york city"
+      ],
+      [
+        "E",
+        "dining"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:24",
+    "source": "csqa",
+    "question": "What is someone who isn't clever, bright, or competent called?",
+    "options": [
+      [
+        "A",
+        "clumsy"
+      ],
+      [
+        "B",
+        "ineffectual"
+      ],
+      [
+        "C",
+        "dull"
+      ],
+      [
+        "D",
+        "clumsy"
+      ],
+      [
+        "E",
+        "stupid"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:968",
+    "source": "csqa",
+    "question": "Why do young people swallow semen ?",
+    "options": [
+      [
+        "A",
+        "you're into"
+      ],
+      [
+        "B",
+        "prostitute"
+      ],
+      [
+        "C",
+        "you're curious"
+      ],
+      [
+        "D",
+        "curiosity"
+      ],
+      [
+        "E",
+        "heterosexual woman in love"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:76",
+    "source": "csqa",
+    "question": "Where does a wild bird usually live?",
+    "options": [
+      [
+        "A",
+        "cage"
+      ],
+      [
+        "B",
+        "sky"
+      ],
+      [
+        "C",
+        "countryside"
+      ],
+      [
+        "D",
+        "desert"
+      ],
+      [
+        "E",
+        "windowsill"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:850",
+    "source": "csqa",
+    "question": "Joe found spiders in the place where he keeps his tools.  Where might that be?",
+    "options": [
+      [
+        "A",
+        "cupboard"
+      ],
+      [
+        "B",
+        "toolbox"
+      ],
+      [
+        "C",
+        "closet"
+      ],
+      [
+        "D",
+        "garage"
+      ],
+      [
+        "E",
+        "mail box"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:99",
+    "source": "csqa",
+    "question": "It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?",
+    "options": [
+      [
+        "A",
+        "bed away from home"
+      ],
+      [
+        "B",
+        "wwii bunker"
+      ],
+      [
+        "C",
+        "resort"
+      ],
+      [
+        "D",
+        "las vegas"
+      ],
+      [
+        "E",
+        "city"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:572",
+    "source": "csqa",
+    "question": "What might someone do after they finish creating art?",
+    "options": [
+      [
+        "A",
+        "frustration"
+      ],
+      [
+        "B",
+        "relax"
+      ],
+      [
+        "C",
+        "eat"
+      ],
+      [
+        "D",
+        "enlightenment"
+      ],
+      [
+        "E",
+        "communication"
+      ]
+    ],
+    "gold": "B",
+    "model_answer": "D",
+    "initial_answer": "D"
+  },
+  {
+    "qid": "csqa:1035",
+    "source": "csqa",
+    "question": "Where is hard to read note likely to be?",
+    "options": [
+      [
+        "A",
+        "fridge"
+      ],
+      [
+        "B",
+        "sheet music"
+      ],
+      [
+        "C",
+        "desk"
+      ],
+      [
+        "D",
+        "bed"
+      ],
+      [
+        "E",
+        "medical chart"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:366",
+    "source": "csqa",
+    "question": "Killing people should not cause what emotion?",
+    "options": [
+      [
+        "A",
+        "vengeance"
+      ],
+      [
+        "B",
+        "going to prison"
+      ],
+      [
+        "C",
+        "joy"
+      ],
+      [
+        "D",
+        "afraid"
+      ],
+      [
+        "E",
+        "terrible"
+      ]
+    ],
+    "gold": "C",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:435",
+    "source": "csqa",
+    "question": "Zane doesn't like answering questions.  He's not good at it because he suffers from what?",
+    "options": [
+      [
+        "A",
+        "panic"
+      ],
+      [
+        "B",
+        "discussion"
+      ],
+      [
+        "C",
+        "attention"
+      ],
+      [
+        "D",
+        "confusion"
+      ],
+      [
+        "E",
+        "satisfaction"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:988",
+    "source": "csqa",
+    "question": "When going to sleep what happens to your body?",
+    "options": [
+      [
+        "A",
+        "snoring"
+      ],
+      [
+        "B",
+        "latency"
+      ],
+      [
+        "C",
+        "dreams"
+      ],
+      [
+        "D",
+        "relaxation"
+      ],
+      [
+        "E",
+        "dreaming"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:1139",
+    "source": "csqa",
+    "question": "When did mammoth's live?",
+    "options": [
+      [
+        "A",
+        "boscage"
+      ],
+      [
+        "B",
+        "forest"
+      ],
+      [
+        "C",
+        "prehistory"
+      ],
+      [
+        "D",
+        "prehistoric times"
+      ],
+      [
+        "E",
+        "ancient times"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:796",
+    "source": "csqa",
+    "question": "Where is a likely place for an ivy plant?",
+    "options": [
+      [
+        "A",
+        "flower pot"
+      ],
+      [
+        "B",
+        "shelf"
+      ],
+      [
+        "C",
+        "windowsill"
+      ],
+      [
+        "D",
+        "outside"
+      ],
+      [
+        "E",
+        "sill"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:274",
+    "source": "csqa",
+    "question": "One of the potential hazards of attending school is what?",
+    "options": [
+      [
+        "A",
+        "cooties"
+      ],
+      [
+        "B",
+        "get smart"
+      ],
+      [
+        "C",
+        "boredom"
+      ],
+      [
+        "D",
+        "colds and flu"
+      ],
+      [
+        "E",
+        "taking tests"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:1211",
+    "source": "csqa",
+    "question": "What are cats often known for?",
+    "options": [
+      [
+        "A",
+        "whiskers"
+      ],
+      [
+        "B",
+        "sharp teeth"
+      ],
+      [
+        "C",
+        "purr"
+      ],
+      [
+        "D",
+        "four legs"
+      ],
+      [
+        "E",
+        "sharp claws"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:1003",
+    "source": "csqa",
+    "question": "Where would using a boat not require navigation skills?",
+    "options": [
+      [
+        "A",
+        "water"
+      ],
+      [
+        "B",
+        "ocean"
+      ],
+      [
+        "C",
+        "garage"
+      ],
+      [
+        "D",
+        "harbor"
+      ],
+      [
+        "E",
+        "river"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:1005",
+    "source": "csqa",
+    "question": "He was very outgoing, for him making friends was no personal what?",
+    "options": [
+      [
+        "A",
+        "scary"
+      ],
+      [
+        "B",
+        "having friends"
+      ],
+      [
+        "C",
+        "good feeling"
+      ],
+      [
+        "D",
+        "conflict"
+      ],
+      [
+        "E",
+        "friendship"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:925",
+    "source": "csqa",
+    "question": "The man  tried to break the glass in order to make his escape in time, but he could not.  The person in the cat, trying to kill him, did what?",
+    "options": [
+      [
+        "A",
+        "accelerate"
+      ],
+      [
+        "B",
+        "putting together"
+      ],
+      [
+        "C",
+        "working"
+      ],
+      [
+        "D",
+        "construct"
+      ],
+      [
+        "E",
+        "train"
+      ]
+    ],
+    "gold": "A",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:700",
+    "source": "csqa",
+    "question": "When you need to rest it's often because you have been doing what?",
+    "options": [
+      [
+        "A",
+        "action"
+      ],
+      [
+        "B",
+        "sleep"
+      ],
+      [
+        "C",
+        "sleeping"
+      ],
+      [
+        "D",
+        "in motion"
+      ],
+      [
+        "E",
+        "using energy"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "D",
+    "initial_answer": "D"
+  },
+  {
+    "qid": "csqa:939",
+    "source": "csqa",
+    "question": "What is the thing that is agitated in your head when kissing?",
+    "options": [
+      [
+        "A",
+        "sexual stimulation"
+      ],
+      [
+        "B",
+        "herpes"
+      ],
+      [
+        "C",
+        "headache"
+      ],
+      [
+        "D",
+        "catch cold"
+      ],
+      [
+        "E",
+        "happiness"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "A",
+    "initial_answer": "A"
+  },
+  {
+    "qid": "csqa:791",
+    "source": "csqa",
+    "question": "James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?",
+    "options": [
+      [
+        "A",
+        "end of line"
+      ],
+      [
+        "B",
+        "hobby shop"
+      ],
+      [
+        "C",
+        "his hand"
+      ],
+      [
+        "D",
+        "toy store"
+      ],
+      [
+        "E",
+        "child's hand"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:280",
+    "source": "csqa",
+    "question": "Where could you find a bureau as well as many politicians?",
+    "options": [
+      [
+        "A",
+        "each city"
+      ],
+      [
+        "B",
+        "office building"
+      ],
+      [
+        "C",
+        "a zoo"
+      ],
+      [
+        "D",
+        "french government"
+      ],
+      [
+        "E",
+        "washington dc"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "B",
+    "initial_answer": "B"
+  },
+  {
+    "qid": "csqa:1026",
+    "source": "csqa",
+    "question": "John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on?",
+    "options": [
+      [
+        "A",
+        "mountain"
+      ],
+      [
+        "B",
+        "fancy"
+      ],
+      [
+        "C",
+        "sandplain"
+      ],
+      [
+        "D",
+        "cliff"
+      ],
+      [
+        "E",
+        "gorge"
+      ]
+    ],
+    "gold": "D",
+    "model_answer": "C",
+    "initial_answer": "C"
+  },
+  {
+    "qid": "csqa:1023",
+    "source": "csqa",
+    "question": "What mall store sells jeans for a decent price?",
+    "options": [
+      [
+        "A",
+        "clothing store"
+      ],
+      [
+        "B",
+        "bedroom"
+      ],
+      [
+        "C",
+        "thrift store"
+      ],
+      [
+        "D",
+        "apartment"
+      ],
+      [
+        "E",
+        "gap"
+      ]
+    ],
+    "gold": "E",
+    "model_answer": "C",
+    "initial_answer": "C"
+  }
+]
