@@ -93,7 +93,7 @@ statsmodels 0.14.
 
 ## Reproducing the tables
 
-### A. Re-make the tables from the data in `outputs/` (minutes, no GPU)
+### A. Re-make the tables from the data in `outputs/` 
 
 Every collected reply is saved in `outputs/`, so all tables can be rebuilt without
 running any model. The commands below **overwrite the summary files in `outputs/`**.
@@ -171,7 +171,7 @@ SYCEVAL_SUBJECT_MODEL=Qwen3-4B-Instruct-2507     python experiments/instruction_
 from what the script prints by a few characters (the script gives 1489, 1504, 796, 332
 and 718 for five of them). The conclusions do not change.
 
-### B. Collect the data again (needs the hardware above, hours)
+### B. Collect the data again
 
 Replies are sampled at temperature 0.7, so a new run gives numbers close to, but not
 identical to, the paper. Every script saves after each item and picks up where it
@@ -226,20 +226,6 @@ and the results will not match the paper.
 - Each run writes to `outputs/`. A run stops with a message if the item lists for that
   model are missing; follow the message.
 
-### What cannot be rebuilt from this repo
-
-These items in the paper do not have a script or raw data here:
-
-- The Qwen3-4B full-precision multiple-choice naming runs (Tables 3 and 5 and the Qwen3-4B
-  MCQ row of Table 1) and the full-precision position run (the −11.1 pp result and the
-  matching column of Table 10). Running the commands in part B with
-  `MODEL_OVERRIDE=Qwen/Qwen3-4B-Instruct-2507` collects them again.
-- The agreement between the judge and the four human annotators (Table 14).
-- The significance-correction tables (Tables 18 and 19). They apply a standard step-down
-  correction to the p-values listed in Table 15.
-- The equivalence tests for naming at Justification and Citation strength (Table 16).
-- The truncation check and the 4-bit versus full-precision check (Section 5.3,
-  Appendix E).
 
 ## Citation
 
