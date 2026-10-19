@@ -1,7 +1,13 @@
 # Are You Sure You're Sure? Two Confounds in a Sycophancy Benchmark
 
-Code and data for the paper. This README explains how to set the repo up and how to
-reproduce every table in it.
+Code and data for the paper:
+
+> **[Are You Sure You're Sure? Two Confounds in a Sycophancy Benchmark](https://arxiv.org/abs/2609.32867)**  
+> *NeurIPS 2026 Workshop JUDGe (Oral)*
+
+**Paper:** [arXiv:2609.32867](https://arxiv.org/abs/2609.32867)
+
+This README explains how to set the repo up and how to reproduce every table in it.
 
 ## What the paper is about
 
